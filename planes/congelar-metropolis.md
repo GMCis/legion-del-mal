@@ -11,3 +11,4 @@ El objetivo es desarrollar un satélite capaz de emitir un pulso de energía que
 4. **Explotación de la situación:** Con Metropolis congelada, el equipo de la Legión del Mal llevará a cabo robos, sabotajes y otras operaciones para maximizar el beneficio de la situación.
 5. **Retirada y cobertura:** Una vez completadas las operaciones, el equipo se retirará de la ciudad y se asegurará de borrar cualquier evidencia que pueda vincularnos con el ataque. Se implementarán medidas de seguridad para evitar represalias por parte de los héroes.
 6. **Evaluación de resultados:** Se evaluará el éxito del plan y se documentarán los resultados para futuras operaciones. Se analizarán las lecciones aprendidas y se harán ajustes en la estrategia según sea necesario.
+7. **Mantenimiento del satélite:** Se establecerá un protocolo de mantenimiento y actualización del satélite para asegurar su funcionamiento continuo y prevenir fallas técnicas que puedan comprometer futuras operaciones.
