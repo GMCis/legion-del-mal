@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/GMCis/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/GMCis/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/GMCis/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/GMCis/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/GMCis/legion-del-mal?cacheSeconds=60)
 
 
 
